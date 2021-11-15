@@ -1,5 +1,5 @@
 {
-    "name": "hyperf/kafka",
+    "name": "wuhaohui/kafka",
     "description": "A kafka client for Hyperf",
     "license": "MIT",
     "keywords": [
